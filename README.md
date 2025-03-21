@@ -4,8 +4,10 @@ Send your message every n seconds. To start using this script you need Python an
 
 - Install Python: https://www.python.org/downloads/
 
-- Install dependencies: open console in folder with script and enter command "pip install -r requirements.txt"
+After Python is installed open console in same directory as script and use below commands to
 
-- Run: open console in folder with script and enter command "python send_message.py"
+- Install dependencies (required only one time): "pip install -r requirements.txt"
 
-- Exit: in console with running script "Ctrl + C"
+- Run: "python send_message.py"
+
+- Stop: "Ctrl + C"
